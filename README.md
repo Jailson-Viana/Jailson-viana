@@ -13,7 +13,7 @@
  <br> 
 <div> 
   <a href="https://www.instagram.com/jailsonvianna_/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ja%C3%ADlson-viana-372788199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ja%C3%ADlson-viana-nascimento-b182122b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jailson-viana/jailson-viana/blob/output/github-contribution-grid-snake.svg)
 
